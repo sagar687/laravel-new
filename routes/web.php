@@ -22,4 +22,3 @@ Route::get('about', function () {
 Route::get('reports', function () {
     return 'reports page';
 });
-
