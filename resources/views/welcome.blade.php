@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     This is Laravel
+=======
+                    welcome too Laravel
+>>>>>>> feature/some-feature
                 </div>
 
                 <div class="links">
